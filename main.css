@@ -1,0 +1,22 @@
+.ceas {
+  background: darkcyan;
+  width: 300px;
+  padding: 20px;
+  border: 10px solid black;
+  text-align: center;
+  border-radius: 15px;
+  margin: 0 auto;
+  margin-top: 200px;
+}
+.ceas-timp,
+.ceas-ampm {
+  font-family: "Ultra", serif;
+  font-size: 35px;
+  color: aliceblue;
+}
+.ceas-timp {
+  font-size: 50px;
+}
+body {
+  background-color: lightcoral;
+}
